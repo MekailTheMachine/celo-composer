@@ -149,6 +149,10 @@ Check [package readme](https://github.com/celo-org/celo-composer/blob/main/packa
 
 <!-- USAGE EXAMPLES -->
 
+## Building for MiniPay using Celo Composer?
+
+📕 Read the docs: <https://docs.celo.org/developer/build-on-minipay>
+
 ## 🔭 Learning Solidity
 
 📕 Read the docs: <https://docs.soliditylang.org>
