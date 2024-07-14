@@ -21,3 +21,5 @@ npx hardhat verify [CONTRACT_ADDRESS] [...CONSTRUCTOR_ARGS] --network celo
 ```
 
 Check the file `hardhat.config.js` for Celo specific hardhat configuration.
+
+After verifying your contracts, deploy to Alfajores or Mainnet.
